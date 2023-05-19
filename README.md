@@ -25,5 +25,8 @@ Raw data is in the data folder, split into training, validation, and test sets.
 
 #### Building the models
 
+Code for building the models is in ModelBuilder.ipynb.
 
 #### Calibration
+
+Code for calibrating the models is in Calibration.ipynb.
